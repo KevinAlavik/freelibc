@@ -1,3 +1,3 @@
-int test() {
-    return 32;
+char* test() {
+    return "Hello, World";
 }
