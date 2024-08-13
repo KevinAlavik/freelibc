@@ -1,5 +1,5 @@
-int __ashlsi3(int a, int b) {
-    int result = a;
+long __ashlsi3(long a, int b) {
+    long result = a;
 
     for (int i = 0; i < b; i++)
     {
