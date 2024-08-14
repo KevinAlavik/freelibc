@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "cstdint": "c",
+        "chrono": "c",
+        "functional": "c"
+    }
+}
